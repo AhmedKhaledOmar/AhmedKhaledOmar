@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ahmed Khaled 👋
 
-<!--
-**AhmedKhaledOmar/AhmedKhaledOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer from Egypt with about 5 years of experience building enterprise systems on .NET. I work on healthcare and insurance platforms, mentor junior developers, and care about simple, maintainable designs.
 
-Here are some ideas to get you started:
+## What I do
+- Backend and full-stack development on the .NET ecosystem
+- Complex business workflows, status lifecycles and data modeling
+- Third-party integrations, background jobs and multi-tenant systems
+- Performance work: took a critical system from ~3-4 to 100+ users per second
+- Technical planning, code review and mentoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+**Backend:** C#, .NET 8, ASP.NET Core, Entity Framework Core, SQL, Hangfire, JWT
+**Frontend:** Angular, React, TypeScript
+**Also:** Git, REST APIs, microservices, Python
+
+## Experience
+- Healthcare and insurance management platform (2026 - now)
+- Fintech, warehouse management and gym management platforms
+- Loyalty, gamification and digital wallet integrations
+- E-commerce and delivery apps
+
+## Currently exploring
+System design, domain-driven design, and AI automation (agents, MCP, RAG)
+
+## Reach me
+[LinkedIn](https://www.linkedin.com/in/ahmedkhaledomar)
