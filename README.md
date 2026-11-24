@@ -1,12 +1,11 @@
 # Hi, I'm Ahmed Khaled 👋
 
-Senior Software Engineer from Egypt with about 5 years of experience building enterprise systems on .NET. I work on healthcare and insurance platforms, mentor junior developers, and care about simple, maintainable designs.
+Senior Software Engineer from Egypt with 5+ years of experience building enterprise systems on .NET. I work on healthcare and insurance platforms, mentor junior developers, and care about simple, maintainable designs.
 
 ## What I do
 - Backend and full-stack development on the .NET ecosystem
 - Complex business workflows, status lifecycles and data modeling
 - Third-party integrations, background jobs and multi-tenant systems
-- Performance work: took a critical system from ~3-4 to 100+ users per second
 - Technical planning, code review and mentoring
 
 ## Tech stack
